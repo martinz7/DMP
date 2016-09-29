@@ -1,2 +1,2 @@
 # DMP 
-This is DMP project
+This is a DMP project
